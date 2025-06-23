@@ -1,0 +1,13 @@
+Process 0 of 1 started.
+Rank 0 initialized matrices and started timer.
+Process 0 allocated local memory.
+Rank 0 prepared scatter parameters.
+Process 0 finished scattering A.
+Process 0 finished broadcasting B.
+Process 0 starting local computation.
+Process 0 finished local computation.
+Process 0 finished gathering results.
+Execution time: 121.097 seconds
+Rank 0 printed execution time.
+Rank 0 cleaned up memory.
+Process 0 finished MPI.

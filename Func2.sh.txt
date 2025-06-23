@@ -1,0 +1,1 @@
+!mpic++ distributed_matrix_mult.cpp -o distributed_matrix_mult
