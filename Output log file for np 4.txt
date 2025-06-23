@@ -1,0 +1,40 @@
+Process 0 of 4 started.
+Process 2 of 4 started.
+Process 3 of 4 started.
+Process 1 of 4 started.
+Process 2 allocated local memory.
+Process 3 allocated local memory.
+Process 1 allocated local memory.
+Rank 0 initialized matrices and started timer.
+Process 0 allocated local memory.
+Rank 0 prepared scatter parameters.
+Process 1 finished scattering A.
+Process 2 finished scattering A.
+Process 3 finished scattering A.
+Process 0 finished scattering A.
+Process 0 finished broadcasting B.
+Process 0 starting local computation.
+Process 1 finished broadcasting B.
+Process 1 starting local computation.
+Process 2 finished broadcasting B.
+Process 2 starting local computation.
+Process 3 finished broadcasting B.
+Process 3 starting local computation.
+Process 2 finished local computation.
+Process 3 finished local computation.
+Process 1 finished local computation.
+Process 0 finished local computation.
+Process 1 finished gathering results.
+Process 1 cleaned up local memory.
+Process 2 finished gathering results.
+Process 2 cleaned up local memory.
+Process 3 finished gathering results.
+Process 0 finished gathering results.
+Rank 0 printed execution time.
+Execution time: 20.6132 seconds
+Process 3 cleaned up local memory.
+Rank 0 cleaned up memory.
+Process 3 finished MPI.
+Process 1 finished MPI.
+Process 2 finished MPI.
+Process 0 finished MPI.
